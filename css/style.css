@@ -1,0 +1,47 @@
+body {
+    background: #599fe5;
+    text-align: center;
+    box-sizing: border-box;
+}
+h1 {
+    color: white;
+    font-weight: 900;
+    text-transform: uppercase;
+    margin: 30px auto;
+}
+h2 {
+    color: white;
+    font-weight: 900;
+    text-transform: uppercase;
+    margin: 30px auto;
+}
+li {
+    color: white;
+    font-weight: 900;
+    text-transform: uppercase;
+    margin: 30px auto;
+    
+}
+ul {
+    list-style: none;
+}
+button {
+    width: 300px;
+    height: 60px;
+    background: #599fe5;
+    border: 2px solid white;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: white;
+    margin: 5px auto;
+    
+    
+}
+input {
+    width: 300px;
+    height: 60px;
+    
+}
+
+
